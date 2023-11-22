@@ -1,0 +1,10 @@
+import { Series } from "./series";
+
+export const dataCourses = [
+ new Series(1, "Wednesday",1,"Los intentos de Wednesday por dominar su emergente habilidad psíquica, frustrar una monstruosa ola de asesinatos que ha aterrorizado a la ciudad local y resolver el misterio sobrenatural que enredó a sus padres hace 25 años, todo mientras navega por sus nuevas y muy enredadas relaciones en Nevermore.","Tim Burton","https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg)"),
+ new Series(2, "Greys Anatomy",20,"Grey's Anatomy sigue la vida de los pasantes, residentes y asistentes de cirugía en el ficticio Grey-Sloan Memorial Hospital, a medida que los pasantes se convierten gradualmente en médicos experimentados a través de la tutoría de sus residentes, asistentes y jefes de cirugía.","Shonda Rhimes","https://greysanatomy2016.files.wordpress.com/2016/01/greys-anatomy-cast.jpg?w=1280&h=720&crop=1"),
+ new Series(3,"Prison Break", 6 , "Después de que su hermano es acusado injustamente de asesinato y enviado al corredor de la muerte, Michael Scofield hará todo lo posible para alterar el delito, incluso si eso significa ser enviado a prisión para escapar de su hermano y recoger a algunos amigos poco probables en el camino.", "Paul Scheuring" , "https://images.justwatch.com/poster/304501693/s718/prison-break.jpg"),
+ new Series(4, "How I met Your Mother", 9, "La serie narra la búsqueda de Ted para encontrar el amor de su vida y las vidas de sus mejores amigos Marshall, Lily, Barney y Robin.", "Pamela Fryman", "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/2970945770FC137FF7D5D3408D5D40836FD4C715DE6A1744F6F5AF21B2386827/scale?width=1200&aspectRatio=1.78&format=jpeg"),
+ new Series (5, "Brooklyn nine-nine", 8, "Serie de comedia que sigue las hazañas de Det. Jake Peralta y sus diversos y adorables colegas mientras vigilan el distrito 99 de la policía de Nueva York.","Dan Goor", "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_FMjpg_UX1000_.jpg")
+
+];
